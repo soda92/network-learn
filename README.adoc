@@ -1,0 +1,10 @@
+= 目录
+
+[.lead]
+link:main.html[主文档]
+
+== 分节
+
+. link:main1.html[分节1]
+. link:main2.html[分节2]
+. link:main3.html[分节3]
